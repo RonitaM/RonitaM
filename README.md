@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonitaM
 - 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning React and Springboot
+- 🌱 I’m currently working on React, Springboot, AWS, Databricks, Python, Spark and Devops
 - 💞️ I’m looking to collaborate on the coolest projects ever
 - 📫 Mail me at ronitamitra14@gmail.com
 
